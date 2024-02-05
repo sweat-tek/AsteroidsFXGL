@@ -1,4 +1,4 @@
-package org.example;
+package sdu.mmmi.cbse;
 
 public class Main {
     public static void main(String[] args) {
